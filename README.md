@@ -1,1 +1,4 @@
-# lib64_for_arm
+# lib64 for arm
+
+build from source 
+
